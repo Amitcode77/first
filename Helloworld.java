@@ -6,6 +6,7 @@ public class Helloworld {
 		// TODO Auto-generated method stub
 
 		System.out.println("Hello World, Eclipse Downloaded");
+		System.out.println("My name is Amit Gupta");
 	}
 
 }
